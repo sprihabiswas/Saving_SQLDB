@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Saving_SQLDB</string>
+    <string name="add_data">Add</string>
+    <string name="read_data">Read</string>
+    <string name="delete_data">Delete</string>
+    <string name="update_data">Update</string>
+
+    <string name="hint_rowid">Row Id</string>
+    <string name="hint_name">Name</string>
+
+
+</resources>
